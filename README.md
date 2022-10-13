@@ -24,6 +24,10 @@ Repositório do projeto para Git/GitHub da Dio com links dos cursos e materiais 
 
  #### POO
  - [Dominando Programação Orientada a objetos](https://web.dio.me/lives/dominando-programacao-orientada-a-objetos-com-java-ifood)
+ 
+ #### Java Básico
+ - [História](https://glysns.gitbook.io/java-basico/fundamentos/java-e-sua-historia)
+ - [Vídeo sobre a história do Java](https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
 
 #### Canais de Comunicação
 - [Discord](https://discord.com/invite/gFKWUdTkaj)
