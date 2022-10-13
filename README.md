@@ -22,8 +22,9 @@ Repositório do projeto para Git/GitHub da Dio com links dos cursos e materiais 
  - [Trabalhando com Branches no GitHub](https://web.dio.me/course/trabalhando-com-branches-no-github/learning/abc5f693-2ab5-4bca-b618-a33b6f746a44)
  - [Git e GitHub focado em Pull Request](https://web.dio.me/course/git-e-github-focado-em-pullrequest/learning/7ee9e586-a200-41de-a075-fd6a7b4b5a1e)
 
- #### POO
+ #### Mentorias
  - [Dominando Programação Orientada a objetos](https://web.dio.me/lives/dominando-programacao-orientada-a-objetos-com-java-ifood)
+ - [Criando uma API Rest Documentada com Spring Boot e Java](https://web.dio.me/lives/criando-uma-api-rest-documentada-com-spring-boot-e-java)
  
  #### Java Básico
  - [História](https://glysns.gitbook.io/java-basico/fundamentos/java-e-sua-historia)
